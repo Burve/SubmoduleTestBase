@@ -1,0 +1,3 @@
+[submodule "SubModule/Sub"]
+	path = SubModule/Sub
+	url = https://github.com/Burve/SubmoduleTestSub.git
